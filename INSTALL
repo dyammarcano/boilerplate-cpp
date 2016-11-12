@@ -4,7 +4,6 @@ $ ./configure
 $ make
 # make install
 
-
 UNINSTALLING
 For uninstalling, run:
 # make uninstall
